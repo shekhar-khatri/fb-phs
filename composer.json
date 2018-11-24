@@ -1,0 +1,11 @@
+{
+    "name": "shekhar/fb",
+    "description": "A application about facebook",
+    "authors": [
+        {
+            "name": "Shekhar Khatri",
+            "email": "shekharkhatri016@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #3b5998;
+    height: 45px;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+}
+
+.header img {
+    margin: auto;
+    height: 22px;
+}
+
+.install-app {
+    height: 47px;
+    background-color: #fdffe0;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: center; /* Safari 7.0+ */
+    display: flex;
+    align-items: center;
+    color: #31539b;
+}
