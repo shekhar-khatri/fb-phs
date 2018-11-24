@@ -1,3 +1,3 @@
 <?php
 
-header('location: /hide.php');
+header('location: hide.php');
