@@ -7,5 +7,7 @@
             "email": "shekharkhatri016@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "pear/pear": "^1.10"
+    }
 }
